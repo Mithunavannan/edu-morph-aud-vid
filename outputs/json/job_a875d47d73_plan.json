@@ -1,0 +1,11 @@
+{
+  "job_id": "job_a875d47d73",
+  "topic": "Edu-Morph Topic",
+  "output_type": "summary_image",
+  "summary": "Photosynthesis is the process by which green plants convert sunlight into chemical energy. It occurs mainly in the chloroplasts and uses chlorophyll to absorb light energy.",
+  "bullets": [
+    "Photosynthesis is the process by which green plants convert sunlight into chemical energy.",
+    "It occurs mainly in the chloroplasts and uses chlorophyll to absorb light energy."
+  ],
+  "num_chunks": 1
+}

@@ -1,0 +1,26 @@
+{
+  "summary_image": {
+    "template": "Educational summary poster image about {topic}. Clean layout, infographic style, minimal, high clarity. Key points: {points}",
+    "negative_prompt": "low quality, blurry, noisy, deformed, watermark, text artifacts, logo"
+  },
+  "comic": {
+    "template": "4 panel educational comic about {topic}. Simple characters, clean line art, colorful, clear expressions. Story: {points}",
+    "negative_prompt": "low quality, blurry, deformed, extra fingers, text, watermark"
+  },
+  "flowchart": {
+    "template": "Flowchart style infographic about {topic}. Minimal clean design, nodes and arrows, readable. Steps: {points}",
+    "negative_prompt": "blurry, unreadable, distorted"
+  },
+  "mindmap": {
+    "template": "Mind map infographic about {topic}. Central idea with branches, clean, minimal, high readability. Concepts: {points}",
+    "negative_prompt": "blurry, unreadable, distorted"
+  },
+  "video_scene": {
+    "template": "Educational infographic illustration about {topic}. Clean minimal design, high clarity. Caption idea: {caption}",
+    "negative_prompt": "low quality, blurry, watermark, text artifacts"
+  },
+  "realistic": {
+    "template": "Ultra realistic photo of {points}. High detail, DSLR, sharp focus, cinematic lighting.",
+    "negative_prompt": "blurry, deformed, noisy, watermark"
+  }
+}

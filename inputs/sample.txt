@@ -1,0 +1,20 @@
+PHOTOSYNTHESIS
+
+Photosynthesis is the process by which green plants convert sunlight into chemical energy.
+It occurs mainly in the chloroplasts and uses chlorophyll to absorb light energy.
+
+Inputs:
+- Carbon dioxide (CO2)
+- Water (H2O)
+- Sunlight
+
+Outputs:
+- Glucose (C6H12O6)
+- Oxygen (O2)
+
+Photosynthesis occurs in two stages:
+1) Light-dependent reactions: capture sunlight and generate ATP and NADPH.
+2) Calvin cycle (light-independent reactions): uses ATP and NADPH to produce glucose.
+
+Importance:
+Photosynthesis is essential for life on Earth because it produces oxygen and forms the base of food chains.
