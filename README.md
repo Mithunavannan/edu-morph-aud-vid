@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=for-the-badge">
 </p>
 
----
+
 
 # 📌 Overview
 
@@ -32,7 +32,6 @@ EduMorph combines the power of:
 
 into a single scalable platform.
 
----
 
 # ✨ Features
 
